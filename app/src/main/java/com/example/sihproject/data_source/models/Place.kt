@@ -1,4 +1,4 @@
-package com.example.sihproject.data_source.firebase_realtime_db
+package com.example.sihproject.data_source.models
 
 data class Place(
     val name:String,

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/SIH/app/src/main/res/layout/fragment_main_screen.xml" value="0.152" />
         <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/SIHproject/app/src/main/res/layout/activity_flash_screen.xml" value="0.24635416666666668" />
         <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/SIHproject/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
         <entry key="..\:/Users/Himanshu Negi/AndroidStudioProjects/SIHproject/app/src/main/res/layout/fragment_firebase_auth.xml" value="0.2359375" />
